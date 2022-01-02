@@ -1,6 +1,6 @@
 # CardSwiftUI
 
-I started learrnig with swfitUi. This is the basics of SwiftUi. But I have learnt so many things like HStack, Vstack, Zstack. 
+I started learning with swfitUi. This is the basics of SwiftUi. But I have learnt so many things like HStack, Vstack, Zstack. 
 How to resize the image into the circle, how to resize the background of text and have rounded circle, how to dsiplay the icon alongside the text, how to create subview like xib and call many times and display diffrent text and icon.
 
 1) For background of text and have rounded circle :-
