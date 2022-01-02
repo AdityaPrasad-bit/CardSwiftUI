@@ -11,8 +11,8 @@
 		48036D61277879CC00705082 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48036D60277879CC00705082 /* ContentView.swift */; };
 		48036D63277879CD00705082 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48036D62277879CD00705082 /* Assets.xcassets */; };
 		48036D66277879CD00705082 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48036D65277879CD00705082 /* Preview Assets.xcassets */; };
-		482DECFC2778807700F5FAE4 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 482DECFB2778807700F5FAE4 /* Pacifico-Regular.ttf */; };
 		4881C0772780CA48008E28E7 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4881C0762780CA48008E28E7 /* InfoView.swift */; };
+		48C70BBB27820FAC00A78E8B /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48C70BBA27820FAC00A78E8B /* Pacifico-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,8 +22,8 @@
 		48036D62277879CD00705082 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48036D65277879CD00705082 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		48036D6E27787F0200705082 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		482DECFB2778807700F5FAE4 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Pacifico-Regular.ttf"; path = "../../../../../../Downloads/Pacifico-2/Pacifico-Regular.ttf"; sourceTree = "<group>"; };
 		4881C0762780CA48008E28E7 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		48C70BBA27820FAC00A78E8B /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Pacifico-Regular.ttf"; path = "../../../../../Downloads/Pacifico-2/Pacifico-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +78,7 @@
 		48036D6D27787EC600705082 /* CustomFonts */ = {
 			isa = PBXGroup;
 			children = (
-				482DECFB2778807700F5FAE4 /* Pacifico-Regular.ttf */,
+				48C70BBA27820FAC00A78E8B /* Pacifico-Regular.ttf */,
 			);
 			path = CustomFonts;
 			sourceTree = "<group>";
@@ -141,7 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				482DECFC2778807700F5FAE4 /* Pacifico-Regular.ttf in Resources */,
+				48C70BBB27820FAC00A78E8B /* Pacifico-Regular.ttf in Resources */,
 				48036D66277879CD00705082 /* Preview Assets.xcassets in Resources */,
 				48036D63277879CD00705082 /* Assets.xcassets in Resources */,
 			);
